@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78931039182",
+    "project_id": "mapp-9f613",
+    "storage_bucket": "mapp-9f613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78931039182:android:67c9d20de6cd0c67d0d19f",
+        "android_client_info": {
+          "package_name": "com.internshala.mapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78931039182-odqkebmrhe84de626senp15n4933bagc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDy-cGXZULN5COUqQJZVvqGz6hAKLPPpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78931039182-odqkebmrhe84de626senp15n4933bagc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
